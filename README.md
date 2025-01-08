@@ -1,5 +1,7 @@
 # mkv-frame-extractor
 
+DISCLAIMER - THIS CODE IS WRITTEN BY AI PRETTY MUCH LOL
+
 ## Installing
 
 ### Rust-ffmpeg
