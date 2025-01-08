@@ -1,1 +1,7 @@
 file.txt
+out-ffmpeg
+out-mine
+
+# Added by cargo
+
+/target
